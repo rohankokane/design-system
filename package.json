@@ -44,7 +44,5 @@
   "lint-staged": {
     "*.{js,jsx}": "yarn lint-staged"
   },
-  "dependencies": {
-    "storybook-addon-multi-theme": "^0.0.8"
-  }
+  "dependencies": {}
 }
