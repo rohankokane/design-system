@@ -498,6 +498,7 @@ exports[`Storyshots Design System/Components/Accordion accordion-group 1`] = `
             >
               <div
                 class="c2 c15 c4 c16"
+                spacing="3"
               >
                 <span
                   aria-hidden="true"
@@ -564,6 +565,7 @@ exports[`Storyshots Design System/Components/Accordion accordion-group 1`] = `
               </div>
               <div
                 class="c2 c4 c26"
+                spacing="0"
               >
                 <span>
                   <button
@@ -625,6 +627,7 @@ exports[`Storyshots Design System/Components/Accordion accordion-group 1`] = `
             >
               <div
                 class="c2 c15 c4 c16"
+                spacing="3"
               >
                 <span
                   aria-hidden="true"
@@ -684,6 +687,7 @@ exports[`Storyshots Design System/Components/Accordion accordion-group 1`] = `
             >
               <div
                 class="c2 c15 c4 c16"
+                spacing="3"
               >
                 <span
                   aria-hidden="true"
@@ -743,6 +747,7 @@ exports[`Storyshots Design System/Components/Accordion accordion-group 1`] = `
             >
               <div
                 class="c2 c15 c4 c16"
+                spacing="3"
               >
                 <span
                   aria-hidden="true"
@@ -1329,6 +1334,7 @@ exports[`Storyshots Design System/Components/Accordion base 1`] = `
           </button>
           <div
             class="c4 c9 c15"
+            spacing="3"
           >
             <span
               aria-hidden="true"
@@ -1407,6 +1413,7 @@ exports[`Storyshots Design System/Components/Accordion base 1`] = `
           </button>
           <div
             class="c4 c9 c15"
+            spacing="3"
           >
             <span
               aria-hidden="true"
@@ -1474,6 +1481,7 @@ exports[`Storyshots Design System/Components/Accordion base 1`] = `
         >
           <div
             class="c4 c8 c9 c15"
+            spacing="3"
           >
             <span
               aria-hidden="true"
@@ -1543,6 +1551,7 @@ exports[`Storyshots Design System/Components/Accordion base 1`] = `
         >
           <div
             class="c4 c8 c9 c15"
+            spacing="3"
           >
             <span
               aria-hidden="true"
@@ -1892,6 +1901,7 @@ exports[`Storyshots Design System/Components/Accordion expanded 1`] = `
       </button>
       <div
         class="c3 c8 c14"
+        spacing="3"
       >
         <span
           aria-hidden="true"
@@ -2320,6 +2330,7 @@ exports[`Storyshots Design System/Components/Accordion keyboard navigable 1`] = 
           </button>
           <div
             class="c4 c9 c16"
+            spacing="3"
           >
             <span
               aria-hidden="true"
@@ -2389,6 +2400,7 @@ exports[`Storyshots Design System/Components/Accordion keyboard navigable 1`] = 
           </button>
           <div
             class="c4 c9 c16"
+            spacing="3"
           >
             <span
               aria-hidden="true"
@@ -2432,6 +2444,7 @@ exports[`Storyshots Design System/Components/Accordion keyboard navigable 1`] = 
         >
           <div
             class="c4 c8 c9 c16"
+            spacing="3"
           >
             <span
               aria-hidden="true"
@@ -2501,6 +2514,7 @@ exports[`Storyshots Design System/Components/Accordion keyboard navigable 1`] = 
         >
           <div
             class="c4 c8 c9 c16"
+            spacing="3"
           >
             <span
               aria-hidden="true"
@@ -2989,6 +3003,7 @@ exports[`Storyshots Design System/Components/Alert variants 1`] = `
   >
     <div
       class="c1"
+      spacing="1"
     >
       <div
         class="c2 c3"
@@ -3836,6 +3851,7 @@ exports[`Storyshots Design System/Components/Badge base 1`] = `
   </div>
   <div
     class="c1"
+    spacing="2"
   >
     <div>
       <div
@@ -3981,6 +3997,7 @@ exports[`Storyshots Design System/Components/Breadcrumbs base 1`] = `
   </div>
   <div
     class="c1 c2 c3"
+    spacing="3"
   >
     <svg
       fill="none"
@@ -4947,6 +4964,7 @@ exports[`Storyshots Design System/Components/Button icons 1`] = `
   </div>
   <div
     class="c1 c2 c3"
+    spacing="2"
   >
     <button
       aria-disabled="false"
@@ -6044,6 +6062,7 @@ exports[`Storyshots Design System/Components/Button variants 1`] = `
   </div>
   <div
     class="c1 c2 c3"
+    spacing="2"
   >
     <button
       aria-disabled="false"
@@ -6531,6 +6550,7 @@ exports[`Storyshots Design System/Components/Card base 1`] = `
     >
       <div
         class="c4 c5 c6 c7"
+        spacing="2"
       >
         <input
           aria-labelledby="first-title"
@@ -6541,6 +6561,7 @@ exports[`Storyshots Design System/Components/Card base 1`] = `
       </div>
       <div
         class="c9 c5 c6 c10"
+        spacing="2"
       >
         <span>
           <button
@@ -7277,6 +7298,7 @@ exports[`Storyshots Design System/Components/Card with asset icon 1`] = `
     >
       <div
         class="c4 c5 c6 c7"
+        spacing="2"
       >
         <input
           aria-labelledby="second-title"
@@ -7827,6 +7849,7 @@ exports[`Storyshots Design System/Components/Card without asset action 1`] = `
     >
       <div
         class="c4 c5 c6 c7"
+        spacing="2"
       >
         <input
           aria-labelledby="second-title"
@@ -8161,6 +8184,7 @@ exports[`Storyshots Design System/Components/Card without asset action nor timer
     >
       <div
         class="c4 c5 c6 c7"
+        spacing="2"
       >
         <input
           aria-labelledby="third-title"
@@ -8511,6 +8535,7 @@ exports[`Storyshots Design System/Components/CarouselInput base 1`] = `
   <div>
     <div
       class="c1"
+      spacing="1"
     >
       <label
         class="c2"
@@ -8625,6 +8650,7 @@ exports[`Storyshots Design System/Components/CarouselInput base 1`] = `
             </div>
             <div
               class="c18 c14 c19"
+              spacing="1"
               width="100%"
             >
               <span>
@@ -8994,6 +9020,7 @@ exports[`Storyshots Design System/Components/CarouselInput one slide only 1`] = 
   <div>
     <div
       class="c1"
+      spacing="1"
     >
       <label
         class="c2"
@@ -9040,6 +9067,7 @@ exports[`Storyshots Design System/Components/CarouselInput one slide only 1`] = 
             </div>
             <div
               class="c13 c10 c14"
+              spacing="1"
               width="100%"
             >
               <span>
@@ -9284,6 +9312,7 @@ exports[`Storyshots Design System/Components/Checkbox base 1`] = `
   <div>
     <div
       class="c1"
+      spacing="1"
     >
       <label
         class="c2 c3"
@@ -9441,6 +9470,7 @@ exports[`Storyshots Design System/Components/Checkbox disabled 1`] = `
   <div>
     <div
       class="c1"
+      spacing="1"
     >
       <label
         class="c2 c3"
@@ -9606,6 +9636,7 @@ exports[`Storyshots Design System/Components/Checkbox error 1`] = `
   <div>
     <div
       class="c1"
+      spacing="1"
     >
       <label
         class="c2 c3"
@@ -9777,6 +9808,7 @@ exports[`Storyshots Design System/Components/Checkbox hint 1`] = `
   <div>
     <div
       class="c1"
+      spacing="1"
     >
       <label
         class="c2 c3"
@@ -9943,6 +9975,7 @@ exports[`Storyshots Design System/Components/Checkbox indeterminate 1`] = `
       <div>
         <div
           class="c1"
+          spacing="1"
         >
           <label
             class="c2 c3"
@@ -9968,6 +10001,7 @@ exports[`Storyshots Design System/Components/Checkbox indeterminate 1`] = `
           <div>
             <div
               class="c1"
+              spacing="1"
             >
               <label
                 class="c2 c3"
@@ -9992,6 +10026,7 @@ exports[`Storyshots Design System/Components/Checkbox indeterminate 1`] = `
           <div>
             <div
               class="c1"
+              spacing="1"
             >
               <label
                 class="c2 c3"
@@ -10192,6 +10227,7 @@ exports[`Storyshots Design System/Components/Combobox base 1`] = `
     />
     <div
       class="c1"
+      spacing="1"
     >
       <label
         class="c2"
@@ -10438,6 +10474,7 @@ exports[`Storyshots Design System/Components/Combobox creatable 1`] = `
     />
     <div
       class="c1"
+      spacing="1"
     >
       <label
         class="c2"
@@ -10687,6 +10724,7 @@ exports[`Storyshots Design System/Components/Combobox disabled 1`] = `
     />
     <div
       class="c1"
+      spacing="1"
     >
       <label
         class="c2"
@@ -10941,6 +10979,7 @@ exports[`Storyshots Design System/Components/Combobox error 1`] = `
     />
     <div
       class="c1"
+      spacing="1"
     >
       <label
         class="c2"
@@ -11207,6 +11246,7 @@ exports[`Storyshots Design System/Components/Combobox initial-data 1`] = `
     </div>
     <div
       class="c1"
+      spacing="1"
     >
       <label
         class="c2"
@@ -11473,6 +11513,7 @@ exports[`Storyshots Design System/Components/Combobox withoutLabel 1`] = `
     />
     <div
       class="c1"
+      spacing="0"
     >
       <div
         class="c2 c3"
@@ -11694,6 +11735,7 @@ exports[`Storyshots Design System/Components/DatePicker base 1`] = `
         <div>
           <div
             class="c1"
+            spacing="1"
           >
             <label
               class="c2"
@@ -11926,6 +11968,7 @@ exports[`Storyshots Design System/Components/DatePicker disabled 1`] = `
         <div>
           <div
             class="c1"
+            spacing="1"
           >
             <label
               class="c2"
@@ -12155,6 +12198,7 @@ exports[`Storyshots Design System/Components/DatePicker size S 1`] = `
         <div>
           <div
             class="c1"
+            spacing="1"
           >
             <label
               class="c2"
@@ -13407,6 +13451,7 @@ exports[`Storyshots Design System/Components/Field base 1`] = `
   <div>
     <div
       class="c1"
+      spacing="1"
     >
       <label
         class="c2"
@@ -13588,6 +13633,7 @@ exports[`Storyshots Design System/Components/Field disabled 1`] = `
   <div>
     <div
       class="c1"
+      spacing="1"
     >
       <label
         class="c2"
@@ -13810,6 +13856,7 @@ exports[`Storyshots Design System/Components/Field most complex input 1`] = `
     <div>
       <div
         class="c2"
+        spacing="1"
       >
         <div
           class="c3"
@@ -14122,6 +14169,7 @@ exports[`Storyshots Design System/Components/Field most complex s size input 1`]
     <div>
       <div
         class="c2"
+        spacing="1"
       >
         <div
           class="c3"
@@ -14407,6 +14455,7 @@ exports[`Storyshots Design System/Components/Field with description 1`] = `
   <div>
     <div
       class="c1"
+      spacing="1"
     >
       <label
         class="c2"
@@ -14598,6 +14647,7 @@ exports[`Storyshots Design System/Components/Field with error 1`] = `
   <div>
     <div
       class="c1"
+      spacing="1"
     >
       <label
         class="c2"
@@ -14800,6 +14850,7 @@ exports[`Storyshots Design System/Components/Field with label-action 1`] = `
   <div>
     <div
       class="c1"
+      spacing="1"
     >
       <label
         class="c2"
@@ -18856,6 +18907,7 @@ exports[`Storyshots Design System/Components/Layout base 1`] = `
         >
           <ul
             class="c1 c16"
+            spacing="2"
           >
             <li>
               <div
@@ -21683,6 +21735,7 @@ exports[`Storyshots Design System/Components/LightTheme colors 1`] = `
         >
           <div
             class="c4"
+            spacing="2"
           >
             <div
               class="c5"
@@ -21720,6 +21773,7 @@ exports[`Storyshots Design System/Components/LightTheme colors 1`] = `
         >
           <div
             class="c4"
+            spacing="2"
           >
             <div
               class="c10"
@@ -21757,6 +21811,7 @@ exports[`Storyshots Design System/Components/LightTheme colors 1`] = `
         >
           <div
             class="c4"
+            spacing="2"
           >
             <div
               class="c15"
@@ -21829,6 +21884,7 @@ exports[`Storyshots Design System/Components/LightTheme colors 1`] = `
         >
           <div
             class="c4"
+            spacing="2"
           >
             <div
               class="c27"
@@ -21866,6 +21922,7 @@ exports[`Storyshots Design System/Components/LightTheme colors 1`] = `
         >
           <div
             class="c4"
+            spacing="2"
           >
             <div
               class="c32"
@@ -21903,6 +21960,7 @@ exports[`Storyshots Design System/Components/LightTheme colors 1`] = `
         >
           <div
             class="c4"
+            spacing="2"
           >
             <div
               class="c37"
@@ -22146,6 +22204,7 @@ exports[`Storyshots Design System/Components/LightTheme spaces 1`] = `
   >
     <div
       class="c2"
+      spacing="1"
     >
       <div
         class="c3"
@@ -22520,6 +22579,7 @@ exports[`Storyshots Design System/Components/Link base 1`] = `
   </div>
   <div
     class="c1"
+    spacing="5"
   >
     <a
       class="c2 c3"
@@ -22671,6 +22731,7 @@ exports[`Storyshots Design System/Components/Link disabled 1`] = `
   </div>
   <div
     class="c1"
+    spacing="5"
   >
     <a
       class="c2 c3"
@@ -22826,6 +22887,7 @@ exports[`Storyshots Design System/Components/Link icons 1`] = `
   </div>
   <div
     class="c1"
+    spacing="5"
   >
     <div>
       <a
@@ -24870,6 +24932,7 @@ exports[`Storyshots Design System/Components/LiveRegions alert 1`] = `
   </div>
   <div
     class="c1 c2"
+    spacing="3"
   >
     <button
       aria-disabled="false"
@@ -25070,6 +25133,7 @@ exports[`Storyshots Design System/Components/LiveRegions log 1`] = `
   </div>
   <div
     class="c1 c2"
+    spacing="3"
   >
     <button
       aria-disabled="false"
@@ -25270,6 +25334,7 @@ exports[`Storyshots Design System/Components/LiveRegions status 1`] = `
   </div>
   <div
     class="c1 c2"
+    spacing="3"
   >
     <button
       aria-disabled="false"
@@ -25726,6 +25791,7 @@ exports[`Storyshots Design System/Components/MainNav base 1`] = `
       >
         <ul
           class="c15"
+          spacing="4"
         >
           <li>
             <a
@@ -25770,6 +25836,7 @@ exports[`Storyshots Design System/Components/MainNav base 1`] = `
           <li>
             <div
               class="c22"
+              spacing="2"
             >
               <span
                 class="c23"
@@ -25782,6 +25849,7 @@ exports[`Storyshots Design System/Components/MainNav base 1`] = `
               </span>
               <ul
                 class="c22"
+                spacing="2"
               >
                 <li>
                   <a
@@ -25905,6 +25973,7 @@ exports[`Storyshots Design System/Components/MainNav base 1`] = `
           <li>
             <div
               class="c22"
+              spacing="2"
             >
               <span
                 class="c23"
@@ -25917,6 +25986,7 @@ exports[`Storyshots Design System/Components/MainNav base 1`] = `
               </span>
               <ul
                 class="c22"
+                spacing="2"
               >
                 <li>
                   <a
@@ -26563,6 +26633,7 @@ exports[`Storyshots Design System/Components/MainNav notifications 1`] = `
       >
         <ul
           class="c15"
+          spacing="4"
         >
           <li>
             <a
@@ -26607,6 +26678,7 @@ exports[`Storyshots Design System/Components/MainNav notifications 1`] = `
           <li>
             <div
               class="c22"
+              spacing="2"
             >
               <span
                 class="c23"
@@ -26619,6 +26691,7 @@ exports[`Storyshots Design System/Components/MainNav notifications 1`] = `
               </span>
               <ul
                 class="c22"
+                spacing="2"
               >
                 <li>
                   <a
@@ -26742,6 +26815,7 @@ exports[`Storyshots Design System/Components/MainNav notifications 1`] = `
           <li>
             <div
               class="c22"
+              spacing="2"
             >
               <span
                 class="c23"
@@ -26754,6 +26828,7 @@ exports[`Storyshots Design System/Components/MainNav notifications 1`] = `
               </span>
               <ul
                 class="c22"
+                spacing="2"
               >
                 <li>
                   <a
@@ -27342,6 +27417,7 @@ exports[`Storyshots Design System/Components/NumberInput base 1`] = `
     <div>
       <div
         class="c2"
+        spacing="1"
       >
         <label
           class="c3"
@@ -27680,6 +27756,7 @@ exports[`Storyshots Design System/Components/NumberInput disabled 1`] = `
     <div>
       <div
         class="c2"
+        spacing="1"
       >
         <label
           class="c3"
@@ -27992,6 +28069,7 @@ exports[`Storyshots Design System/Components/NumberInput required 1`] = `
     <div>
       <div
         class="c2"
+        spacing="1"
       >
         <label
           class="c3"
@@ -28314,6 +28392,7 @@ exports[`Storyshots Design System/Components/NumberInput size S 1`] = `
     <div>
       <div
         class="c2"
+        spacing="1"
       >
         <label
           class="c3"
@@ -28664,6 +28743,7 @@ exports[`Storyshots Design System/Components/NumberInput with initial 0 1`] = `
     <div>
       <div
         class="c2"
+        spacing="1"
       >
         <label
           class="c3"
@@ -28981,6 +29061,7 @@ exports[`Storyshots Design System/Components/NumberInput withoutLabel 1`] = `
     <div>
       <div
         class="c2"
+        spacing="1"
       >
         <div
           class="c3 c4"
@@ -30673,6 +30754,7 @@ exports[`Storyshots Design System/Components/Select base 1`] = `
   </div>
   <div
     class="c1"
+    spacing="11"
   >
     <h2>
       Current value is 
@@ -30680,6 +30762,7 @@ exports[`Storyshots Design System/Components/Select base 1`] = `
     <div>
       <div
         class="c2"
+        spacing="1"
       >
         <span
           class="c3"
@@ -31012,6 +31095,7 @@ exports[`Storyshots Design System/Components/Select multi 1`] = `
   </div>
   <div
     class="c1"
+    spacing="11"
   >
     <h2>
       Current value is 
@@ -31020,6 +31104,7 @@ exports[`Storyshots Design System/Components/Select multi 1`] = `
     <div>
       <div
         class="c2"
+        spacing="1"
       >
         <span
           class="c3"
@@ -31308,6 +31393,7 @@ exports[`Storyshots Design System/Components/Select multi-nested 1`] = `
   </div>
   <div
     class="c1"
+    spacing="11"
   >
     <h2>
       Current value is 
@@ -31316,6 +31402,7 @@ exports[`Storyshots Design System/Components/Select multi-nested 1`] = `
     <div>
       <div
         class="c2"
+        spacing="1"
       >
         <span
           class="c3"
@@ -31625,6 +31712,7 @@ exports[`Storyshots Design System/Components/Select multi-withTags 1`] = `
   </div>
   <div
     class="c1"
+    spacing="11"
   >
     <h2>
       Current value is 
@@ -31633,6 +31721,7 @@ exports[`Storyshots Design System/Components/Select multi-withTags 1`] = `
     <div>
       <div
         class="c2"
+        spacing="1"
       >
         <span
           class="c3"
@@ -31933,10 +32022,12 @@ exports[`Storyshots Design System/Components/Select size-S 1`] = `
   </div>
   <div
     class="c1"
+    spacing="11"
   >
     <div>
       <div
         class="c2"
+        spacing="1"
       >
         <span
           class="c3"
@@ -32228,6 +32319,7 @@ exports[`Storyshots Design System/Components/Select withoutLabel 1`] = `
   </div>
   <div
     class="c1"
+    spacing="11"
   >
     <h2>
       Current value is 
@@ -32235,6 +32327,7 @@ exports[`Storyshots Design System/Components/Select withoutLabel 1`] = `
     <div>
       <div
         class="c2"
+        spacing="1"
       >
         <div
           class="c3 c4"
@@ -33267,6 +33360,7 @@ exports[`Storyshots Design System/Components/Status base 1`] = `
   </div>
   <div
     class="c1"
+    spacing="3"
   >
     <div
       class="c2 c3"
@@ -33917,6 +34011,7 @@ exports[`Storyshots Design System/Components/SubNav base 1`] = `
         >
           <ul
             class="c15"
+            spacing="2"
           >
             <li>
               <div
@@ -34485,6 +34580,7 @@ exports[`Storyshots Design System/Components/SubNav base 1`] = `
         >
           <ul
             class="c15"
+            spacing="2"
           >
             <li>
               <a
@@ -34793,6 +34889,7 @@ exports[`Storyshots Design System/Components/SubNav base 1`] = `
         >
           <ul
             class="c15"
+            spacing="2"
           >
             <li>
               <a
@@ -40614,6 +40711,7 @@ exports[`Storyshots Design System/Components/TextInput base 1`] = `
       <div>
         <div
           class="c2"
+          spacing="1"
         >
           <label
             class="c3"
@@ -40849,6 +40947,7 @@ exports[`Storyshots Design System/Components/TextInput disabled 1`] = `
       <div>
         <div
           class="c2"
+          spacing="1"
         >
           <label
             class="c3"
@@ -41082,6 +41181,7 @@ exports[`Storyshots Design System/Components/TextInput password 1`] = `
       <div>
         <div
           class="c2"
+          spacing="1"
         >
           <label
             class="c3"
@@ -41315,6 +41415,7 @@ exports[`Storyshots Design System/Components/TextInput size S 1`] = `
       <div>
         <div
           class="c2"
+          spacing="1"
         >
           <label
             class="c3"
@@ -41547,6 +41648,7 @@ exports[`Storyshots Design System/Components/TextInput with error 1`] = `
       <div>
         <div
           class="c2"
+          spacing="1"
         >
           <label
             class="c3"
@@ -41747,6 +41849,7 @@ exports[`Storyshots Design System/Components/TextInput withoutLabel 1`] = `
       <div>
         <div
           class="c2"
+          spacing="1"
         >
           <div
             class="c3 c4"
@@ -41961,6 +42064,7 @@ exports[`Storyshots Design System/Components/Textarea base 1`] = `
       <div>
         <div
           class="c3"
+          spacing="1"
         >
           <div
             class="c4"
@@ -42212,6 +42316,7 @@ exports[`Storyshots Design System/Components/Textarea disabled 1`] = `
       <div>
         <div
           class="c3"
+          spacing="1"
         >
           <div
             class="c4"
@@ -42480,6 +42585,7 @@ exports[`Storyshots Design System/Components/TimePicker 30-mns-step 1`] = `
   <div>
     <div
       class="c1"
+      spacing="1"
     >
       <span
         class="c2"
@@ -42783,6 +42889,7 @@ exports[`Storyshots Design System/Components/TimePicker base 1`] = `
   <div>
     <div
       class="c1"
+      spacing="1"
     >
       <span
         class="c2"
@@ -43089,6 +43196,7 @@ exports[`Storyshots Design System/Components/TimePicker disabled 1`] = `
   <div>
     <div
       class="c1"
+      spacing="1"
     >
       <span
         class="c2"
@@ -43413,6 +43521,7 @@ exports[`Storyshots Design System/Components/TimePicker initial-data 1`] = `
     <div>
       <div
         class="c3"
+        spacing="1"
       >
         <span
           class="c4"
@@ -43736,6 +43845,7 @@ exports[`Storyshots Design System/Components/TimePicker size S 1`] = `
   <div>
     <div
       class="c1"
+      spacing="1"
     >
       <span
         class="c2"
@@ -44616,6 +44726,7 @@ exports[`Storyshots Design System/Components/ToggleInput base 1`] = `
   >
     <div
       class="c2"
+      spacing="1"
     >
       <div
         class="c3"
@@ -44857,6 +44968,7 @@ exports[`Storyshots Design System/Components/ToggleInput error 1`] = `
   >
     <div
       class="c2"
+      spacing="1"
     >
       <div
         class="c3"
@@ -45066,6 +45178,7 @@ exports[`Storyshots Design System/Components/ToggleInput null-value 1`] = `
   >
     <div
       class="c2"
+      spacing="1"
     >
       <div
         class="c3"
@@ -45280,6 +45393,7 @@ exports[`Storyshots Design System/Components/ToggleInput size S 1`] = `
   >
     <div
       class="c2"
+      spacing="1"
     >
       <div
         class="c3"
@@ -46703,6 +46817,7 @@ exports[`Storyshots Design System/Technical Components/FocusTrap base 1`] = `
   >
     <div
       class="c1 c3"
+      spacing="2"
     >
       <div
         class="c1 c4"
@@ -49613,6 +49728,7 @@ exports[`Storyshots Design System/Technical Components/Stack base 1`] = `
   </div>
   <div
     class="c1 c2"
+    spacing="4"
   >
     <div
       class="c3"
@@ -49689,6 +49805,7 @@ exports[`Storyshots Design System/Technical Components/Stack horizontal 1`] = `
   </div>
   <div
     class="c1 c2 c3"
+    spacing="4"
   >
     <div
       class="c4"

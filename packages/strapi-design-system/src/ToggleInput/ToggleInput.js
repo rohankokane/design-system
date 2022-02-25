@@ -17,7 +17,7 @@ export const ToggleInput = ({ size, error, hint, label, name, labelAction, requi
 
   return (
     <FieldWrapper name={name} hint={hint} error={error} id={generatedId}>
-      <Stack size={1}>
+      <Stack spacing={1}>
         <Flex>
           <FieldLabel required={required} action={labelAction}>
             {label}
