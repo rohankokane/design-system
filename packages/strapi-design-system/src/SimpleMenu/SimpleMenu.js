@@ -92,7 +92,7 @@ MenuItem.propTypes = {
   to: PropTypes.string,
 };
 
-export const SimpleMenu = ({ label, children, id, as: asComp, size = 'M', ...props }) => {
+export const SimpleMenu = ({ label, children, id, as: asComp, size, ...props }) => {
   const menuButtonRef = useRef();
   const menuId = useId('simplemenu', id);
   const [visible, setVisible] = useState(false);
@@ -218,8 +218,10 @@ SimpleMenu.propTypes = {
   label: PropTypes.oneOfType([PropTypes.string, PropTypes.number, PropTypes.element]).isRequired,
 
   /**
-   * Size of the trigger button
+   * Size of the trigger button.
+   * Note: in case a custom component is passed through the "as"
+   * prop, the size prop is passed along too, but needs to be handled there
    */
 
-  size: Proptypes.oneOf(['S', 'M']),
+  size: PropTypes.oneOf(['S', 'M']),
 };
